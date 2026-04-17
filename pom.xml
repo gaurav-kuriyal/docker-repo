@@ -127,6 +127,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>usermanagementapp</finalName>
 	</build>
 
 </project>
